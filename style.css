@@ -1,0 +1,90 @@
+header i {
+    color: #00d4ff;
+    margin-right: 5px;
+}
+
+body {
+        background-color: white !important;
+        color: black !important;
+        padding: 0;
+    }
+
+    .resume-container {
+        background: white !important;
+        box-shadow: none !important;
+        border: none !important;
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1, h2, h3 {
+        color: black !important;
+    }
+
+    a {
+        color: black !important;
+        text-decoration: none;
+    }
+
+    /* Keep the light border for sections for a professional look */
+    h2 {
+        border-bottom: 2px solid #333 !important;
+    }
+
+
+/* Button Styling */
+.print-btn {
+    background: #00d4ff;
+    color: #121212;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.print-btn:hover {
+    background: #008fb3;
+}
+
+/* Skill Bars */
+.skill-container p {
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.progress-bar {
+    background-color: #333;
+    border-radius: 10px;
+    height: 8px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.progress {
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00d4ff, #008fb3);
+}
+
+/* Proficiency Levels - Adjust percentages as you see fit */
+.js { width: 90%; }
+.react { width: 85%; }
+.html-css { width: 95%; }
+
+/* Print Rules */
+@media print {
+    /* Hide the button and contact links while printing */
+    .no-print, .btn {
+        display: none !important;
+    }
+    @media print {
+    .progress {
+        border: 1px solid #00d4ff !important;
+        -webkit-print-color-adjust: exact;
+    }
+}
+}
