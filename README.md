@@ -1,23 +1,34 @@
-# 📄 Resume Repository — Breia M. John
+# Breia M. John | Junior Software Engineer
+**Syracuse, NY** | [LinkedIn](https://linkedin.com/in/breia-john-0731558a) | [Live Portfolio](https://breiajohn.github.io/new-portfolio/)
 
-This repository stores my **resume** in multiple formats, managed with version control.  
-It serves as both a professional reference and a demonstration of using GitHub to maintain personal documentation.  
+## 🚀 Summary
+Junior Software Engineer and detail-oriented Front-End Developer with a strong foundation in JavaScript, React, HTML, and CSS[cite: 4, 46]. With a professional background in Premier Technical Support, I bring a unique "debug-first" mentality to building responsive, user-friendly web applications.
 
----
+## 🛠️ Technical Skills
+* **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL
+* **Frameworks & Libraries:** React, Sass
+* **Developer Tools:** Git, GitHub, REST APIs, Chrome DevTools
+* **Concepts:** Responsive Design, Version Control, Debugging, Agile/Scrum
 
-## 📂 Contents
-- [`Breia_John_Resume.pdf`](./Breia_John_Resume.pdf) → Downloadable PDF  
-- [`Breia_John_Resume.html`](./Breia_John_Resume.html) → Open directly in a browser  
+## 📂 Featured Projects
 
----
+### [YouTube Interface Clone](https://breiajohn.github.io/Youtube-project/)
+* **Description:** A pixel-perfect replica of the YouTube homepage focusing on high-fidelity responsive architecture.
+* **Key Features:** Implemented complex CSS Grid and Flexbox layouts for video thumbnails and a functional sticky sidebar.
 
-## 🔧 Usage
-### View Online
-- Click the HTML file above → GitHub will render the raw code.  
-- To view styled properly, download and open in any browser:  
-  ```bash
-  git clone https://github.com/BreiaJohn/resume.git
-  cd resume
-  open Breia_John_Resume.html
-  
-Breia M. John's professional resume and portfolio projects
+### [Interactive Rock-Paper-Scissors](https://breiajohn.github.io/Rock-paper-scissors-2/)
+* **Description:** A modern web game featuring a "Premium" dark-mode UI and interactive state management.
+* **Key Features:** Integrated CSS Keyframe animations for fade-in effects and interactive hover glows.
+
+### [Homeez App](https://homeez-app-mu.vercel.app/)
+* **Description:** A multi-page React application using component-based architecture.
+* **Key Features:** Managed application state and user interactions to create a seamless property-browsing experience.
+
+## 🎓 Certifications
+* **Meta Front-End Developer Professional Certificate** | Completed July 2025
+* **Responsive Web Design Certification** | FreeCodeCamp
+* **Coding Interview Prep Certificate** | Coursera
+
+## 💼 Professional Experience
+* **Premier Support Specialist** @ Roadie (A UPS Company) | Sept 2024 - Present
+* **Identity Support Specialist** @ Rippling | April 2024 - Sept 2024
